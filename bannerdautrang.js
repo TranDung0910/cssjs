@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/zf5i0z' target='_blank'><img src='https://1.bp.blogspot.com/-VfVQS7VgCyo/WP8_wUJc18I/AAAAAAAABK4/OdkP2OUyewgc8eQifHe0t6F4onApyYlpwCLcB/s1600/b1.jpg' width='500px'/><br/>Dự Án Bất Động Sản Green Town Bình Tân Hot Nhất Hiện Nay</a>. Liên Hệ: 0909232118. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/zf5i0z' target='_blank'><img src='https://3.bp.blogspot.com/-lLreX393Q9s/WP7uSQSm6dI/AAAAAAAABKM/pM-JGCdTxroTtezoOpaQdTDlOVz3FYeSQCLcB/s1600/b1.jpg' width='500px'/><br/>Dự Án Bất Động Sản Green Town Bình Tân Hot Nhất Hiện Nay</a>. Liên Hệ: 0909232118. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
